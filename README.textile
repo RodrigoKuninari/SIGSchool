@@ -1,0 +1,21 @@
+h1. *SIGSchool*
+
+h2. _Descrição_
+
+O Sistema consiste em uma agenda on-line que substitua as clássicas e conhecidas agendas de papel. Dessa forma os pais poderão a qualquer momento e de qualquer lugar acessar a agenda escolar de seu filho, onde conterá um calendário no qual estarão marcadas as tarefas, atividades, datas e notas das provas de seus filhos. Também será possível acessar notas de provas antigas e atuais, e observações feitas pelos coordenadores e professores.
+
+h2. _Tecnologias/Linguagens Utilizadas_
+
+* *IDE*: NetBeans 7.0.1
+* *Plataforma*: Java Enterprise Edition 6
+* *Banco de Dados*: Apache Derby 10.6.2.1
+* *Servidor de Aplicação*: GlassFish Server 3.1
+* *Arquitetura*: MVC (Model-View-Controller)
+* *Padrões de Projeto*: DAO (Data Access Object)
+* *Apresentação* via HTML, JSP, Javascript e JQuery
+
+h2. _Frameworks_
+
+* Hibernate (JPA 2.0)
+
+h2. _Configurações_
